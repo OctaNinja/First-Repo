@@ -4,3 +4,4 @@ Welcome To The Ninjamasters Kitchen
 
 Katana 
 Ninjastar
+Grappling-hook
